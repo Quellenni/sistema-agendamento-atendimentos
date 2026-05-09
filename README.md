@@ -65,7 +65,7 @@ A classe HorarioDisponivel representa os horários que podem ser utilizados para
 
 Os relacionamentos apresentados no diagrama demonstram como pacientes, profissionais, serviços e horários se conectam para permitir o controle dos agendamentos de maneira organizada, facilitando a gestão dos atendimentos e reduzindo conflitos de horários.
 
-![Diagrama de Classes](classes.drawio.png)
+![Diagrama de Classes](classe.drawio.png)
 
 ---
 
